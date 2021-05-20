@@ -1,9 +1,11 @@
 # get_next_line
-Return value 1 : A line has been read
+Return value 
 
-			 0 : EOF has been reached
+	 1 : A line has been read
 
-			 -1 : An error happened
+	 0 : EOF has been reached
+
+	 -1 : An error happened
 
 • Calling your function get_next_line in a loop will then allow you to read the text
 
